@@ -1,5 +1,9 @@
-# 💫 About Me:
-## 🔭 I’m currently working on - STEMQuest<br>## 👯 I’m looking to collaborate on - Coinlyst<br>## 🌱 I’m currently learning - Flutter and DS
+# 💫 About Me -
+## B.TECH ’27 || Android & Flutter Dev || Seeking Summer 2026 Internships in Software Development<br>
+## - Aspiring Android and Full Stack Developer with a strong foundation in software development and a passion for creating innovative mobile applications.<br>
+## - Pre-final undergraduate student skilled in building robust Java and Kotlin applications, complemented by hands-on experience in developing and deploying real-world projects.<br>
+## - Currently enhancing expertise in Flutter and Dart to develop cross-platform mobile applications, aiming to deliver seamless user experiences across various devices.<br>
+## 🔭 I’m currently working on - STEMQuest<br>👯 I’m looking to collaborate on - Coinlyst<br>🌱 I’m currently learning - Flutter and DS
 
 
 ## 🌐 Socials:
